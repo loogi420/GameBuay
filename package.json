@@ -1,0 +1,20 @@
+{
+  "name": "Discord Gamebuay",
+  "version": "1.0.0",
+  "description": "A discord bot in which you can play GameBoy/Advanced games.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Navaneeth K M",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "gbajs": "^1.1.2",
+    "jsnes": "^1.1.0",
+    "msgpack": "^1.0.3",
+    "serverboy": "0.0.4"
+  }
+}
