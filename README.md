@@ -1,4 +1,6 @@
 # Discord Gameboy Emulator
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay?ref=badge_shield)
+
 
 A bot that lets Discord users play games collaboratively using an emulator.  
 Currently has NES, Gameboy, and GBA emulators.
@@ -74,3 +76,7 @@ When a game is running, buttons can be pressed by sending (case insensitive):
 The bot can be restricted to one channel only through permissions. Disallow the bot from reading and sending messages globally, and enable those permissions for the bot in only the desired channels.
 
 If the bot has "Manage Messages" permissions, it will delete messages used as input to reduce spam.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay?ref=badge_large)
