@@ -1,4 +1,4 @@
-# Discord Gameboy Emulator
+[![Discord-Gamebuay](https://github-readme-stats.vercel.app/api/pin/?username=navaneethkm004&repo=Discord-Gamebuay&theme=dark)](https://github.com/navaneethkm004/Discord-Gamebuay)<br/>
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay?ref=badge_shield)
 
 
