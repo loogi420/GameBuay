@@ -80,3 +80,5 @@ If the bot has "Manage Messages" permissions, it will delete messages used as in
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnavaneethkm004%2FDiscord-Gamebuay?ref=badge_large)
+
+With the power of knowledge, you may be able to have 100 people play pokemon, I dunno.
